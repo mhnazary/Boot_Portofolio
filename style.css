@@ -6,3 +6,11 @@
     height: 600px;
   
 }
+
+.card-desc {
+    width: 22rem;
+}
+
+.btn {
+    width: 10rem;
+}
