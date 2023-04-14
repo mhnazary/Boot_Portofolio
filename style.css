@@ -1,16 +1,15 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .intro {
-    height: 600px;
-  
+  height: 600px;
 }
 
 .card-desc {
-    width: 22rem;
+  width: 22rem;
 }
 
 .btn {
-    width: 10rem;
+  width: 10rem;
 }
